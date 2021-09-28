@@ -86,7 +86,8 @@
 ### default listing page for l1/l2/l3
 | Scenario | URL  |data|
 | :-------- |:-------|:---|
-| For rest categories excluding above given for l1/l2/l3,the given URL opens by default| `http://localhost:3000/pc/fruits-vegetables/fresh-vegetables/gourd-pumpkin-drumstick/` | ***nil***  |
+| For rest categories excluding above given for l1/l2/l3, 
+Foodgrains, Oil & Masala/Dry Fruits category data shown by default| `http://localhost:3000/pc/${slug category excluding above given for l1/l2/l3}` | ***nil***  |
 
 
 #### Product Search(ps)
